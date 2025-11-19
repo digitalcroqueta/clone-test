@@ -1,0 +1,2 @@
+sql-server-language-extensions
+Agent365-devTools
