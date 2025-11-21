@@ -1,0 +1,3 @@
+[submodule "MSBuildCache"]
+	path = MSBuildCache
+	url = https://github.com/microsoft/MSBuildCache.git
